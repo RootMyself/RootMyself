@@ -10,6 +10,17 @@
 >  \- 칼 융(Carl Jung)
 >
 
+>
+> "언제나 제 주위를 맴돌고 있는 위험이 언젠가 저에게 이른다고 해서
+>  놀라야 합니까? 많은 사람들은 항해하기 전에 폭풍을 생각하지 않습니다.
+>  누군가에게 일어날 수 있는 일은 모두에게 일어날 수 있는 일입니다.
+>  위험한 순간에 이르러서야 비로소 영혼이 견딜 수 있도록 단련하려면
+>  너무 늦습니다. 미리 생각하는 사람은 불행을 부숴 버립니다. 미리
+>  예상한 것은 훨씬 덜 나쁘게 다가옵니다."
+> <br><br>
+>  \- 루키우스 안나이우스 세네카(Lucius Annaeus Seneca)
+>
+
 ### "실력은 고통의 총합"
 
 ##### 살아보니, 이상과 현실 사이를 오가며 희망과 실망 사이를 저울질 하는게 인생인것 같습니다.
@@ -20,12 +31,12 @@
 ##### 감사합니다.
 
 #
-#### Tech Stack  
+#### Stack  
 
 ###### Main 
 ![AppVeyor](https://img.shields.io/static/v1?label=&message=Java&color=blue) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Spring&color=green) ![AppVeyor](https://img.shields.io/static/v1?label=&message=MariaDB&color=red) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Linux&color=yellow) ![AppVeyor](https://img.shields.io/static/v1?label=&message=AWS&color=yellow) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Jenkins&color=yellow)
 ###### Sub
-![AppVeyor](https://img.shields.io/static/v1?label=&message=JavaScript&color=blue) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Vue.js&color=green) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Node.js&color=green) 
+![AppVeyor](https://img.shields.io/static/v1?label=&message=JavaScript&color=blue) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Vue.js&color=green) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Node.js&color=green)
 ###### Used Before  
 ![AppVeyor](https://img.shields.io/static/v1?label=&message=C&color=grey) ![AppVeyor](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue) ![AppVeyor](https://img.shields.io/static/v1?label=&message=DirectX9&color=black) ![AppVeyor](https://img.shields.io/static/v1?label=&message=DirectX11&color=black) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Unreal%20Engine&color=blueviolet) 
 #
