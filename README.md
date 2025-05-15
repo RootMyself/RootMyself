@@ -1,8 +1,5 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hello%20World!%20%20&fontAlign=50&fontSize=30&textBg=true&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLipCoder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-## Hi there 👋
-
 >
 > 보노보노: "즐거운 일은 왜 끝나는 걸까요? 즐거운 일만 쭉 이어지면 좋을텐데요?"
 > <br>
