@@ -1,5 +1,3 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hello%20World!%20%20&fontAlign=50&fontSize=30&textBg=true&animation=fadeIn)
-
 >
 > 신념에 눈이 멀었구나.
 > <br>
