@@ -1,17 +1,19 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hello%20World!%20%20&fontAlign=50&fontSize=30&textBg=true&animation=fadeIn)
 
 >
-> 보노보노: "즐거운 일은 왜 끝나는 걸까요? 즐거운 일만 쭉 이어지면 좋을텐데요?"
+> 신념에 눈이 멀었구나.
 > <br>
-> 야옹이형: "해가 져서 밤이오고, 해가 떠서 아침이 오듯. 슬픈일이나 괴로운 일을 끝내기 위해서 재미있는 일이 끝나는 거란다."
+> 선택받은자 같은건 없다.
+> <br>
+> 우릴 구원하는건 우리 자신뿐이다.
 > <br><br>
-> \- 보노보노 1기 48화 中
+> \- 일리단 (아르거스의 그림자 시네마틱 中)
 >
 
-##### 인생이란 항상 즐거울 수도, 항상 슬플 수도 없습니다.
-##### 그렇기 때문에 즐겁더라도 슬플 수 있음을, 슬프더라도 즐거울 수 있음을 항상 염두하며 살아가야 합니다.
-##### 즐겁든 슬프든 인생이라는 것은 그저 지나갈 뿐입니다.
-##### 그렇기에 큰 기대를 가지지 않고 그저 살아갈 뿐입니다.
+##### 나는 실존주의 철학을 삶과 코드에 녹여내려 고군분투하는 개발자이다.
+##### 정해진 길이나 운명 같은 것은 믿지 않는다. 대신 매 순간, 내가 선택한 코드 한 줄 한 줄에 책임을 지려한다.
+##### 시스템의 질서 속에서도 자기 자신을 루팅(root)하며, 진정한 자유와 의미는 스스로 만드는 것이라 믿는다.
+##### 내가 만든 프로그램처럼, 나의 삶도 내가 설계한다.
 
 #
 #### Stack  
@@ -25,6 +27,6 @@
 #
                
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoPainNoLife&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RootMyself&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoPainNoLife)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RootMyself)](https://github.com/anuraghazra/github-readme-stats)
