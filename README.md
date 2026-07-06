@@ -11,8 +11,3 @@
 ###### Used Before  
 ![AppVeyor](https://img.shields.io/static/v1?label=&message=C&color=grey) ![AppVeyor](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue) ![AppVeyor](https://img.shields.io/static/v1?label=&message=DirectX9&color=black) ![AppVeyor](https://img.shields.io/static/v1?label=&message=DirectX11&color=black) ![AppVeyor](https://img.shields.io/static/v1?label=&message=Unreal%20Engine&color=blueviolet) 
 #
-               
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RootMyself&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RootMyself)](https://github.com/anuraghazra/github-readme-stats)
